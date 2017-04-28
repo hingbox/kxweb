@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kxweb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kxweb.war">
+      <element id="artifact" artifact-name="kxweb:war exploded" />
+    </root>
+  </artifact>
+</component>
